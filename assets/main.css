@@ -1583,6 +1583,7 @@ GLOBAL HEADER
   width: 44px;
   overflow: hidden;
   transition: all 100ms ease-in-out;
+  color: #000;
 }
 
 @media screen and (max-width: 1199px) {
