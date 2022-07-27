@@ -1,0 +1,29 @@
+@font-face {
+  /* 65Med */
+	font-family: "HelveticaNeueWeb";
+	src: url(3600b37f-2bf1-45f3-be3a-03365f16d9cb.woff2) format("woff2"),
+       url(60be5c39-863e-40cb-9434-6ebafb62ab2b.woff) format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  /* 75Bold */
+	font-family: "HelveticaNeueWeb";
+	src: url(3b303641-706e-4221-94c4-4fb491f4f8ef.woff2) format("woff2"),
+       url(14ff6081-326d-4dae-b778-d7afa66166fc.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  /* 55Roman */
+	font-family: "HelveticaNeueWeb";
+	src: url(823e6839-53d8-41b9-a5a1-5f05833acd12.woff2) format("woff2"),
+       url(92679273-9798-4d27-893b-d53dfd2bb4c7.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
