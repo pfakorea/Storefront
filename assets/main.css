@@ -833,6 +833,9 @@ body {
   body {
     font-size: 1.125rem;
   }
+  body p, body ul, body dl {
+    font-size: 1.125rem;
+  }
 }
 
 /* SELECTED TEXT */
